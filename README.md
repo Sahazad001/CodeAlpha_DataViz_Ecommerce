@@ -39,8 +39,12 @@ Python, Pandas, Plotly, Streamlit, Google Colab
   in average review score
 
 ### 📷 Preview
-![Delivery Trend](images/ontime_delivery_trend.png)
-![State Ranking](images/state_delivery_ranking.png)
+Delivery Trend
+<img width="1190" height="590" alt="image" src="https://github.com/user-attachments/assets/7f8825df-3560-4c21-b708-3edac0257503" />
+
+State Ranking
+<img width="989" height="790" alt="image" src="https://github.com/user-attachments/assets/19c936f3-38de-4d23-90bb-1e8d6e9b5b51" />
+
 
 ### 🚀 How to Run Locally
 ```bash
